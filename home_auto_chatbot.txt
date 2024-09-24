@@ -1,0 +1,60 @@
+
+1. Q: Can you turn on the living room lights?
+   A: Sure! The living room lights have been turned on.
+
+2. Q: Set the thermostat to 22 degrees Celsius.
+   A: The thermostat is now set to 22°C.
+
+3. Q: Lock the front door.
+   A: The front door is now locked.
+
+4. Q: Open the garage door.
+   A: The garage door has been opened.
+
+5. Q: Turn off all the lights in the house.
+   A: All lights in the house have been turned off.
+
+6. Q: Play some relaxing music in the bedroom.
+   A: Playing relaxing music in the bedroom.
+
+7. Q: Show me the camera feed for the backyard.
+   A: Here is the live feed from your backyard camera.
+
+8. Q: Set an alarm for 7:00 AM tomorrow.
+   A: Your alarm has been set for 7:00 AM tomorrow.
+
+9. Q: What's the temperature inside the house?
+   A: The current temperature inside the house is 20°C.
+
+10. Q: Close the curtains in the living room.
+    A: The curtains in the living room are now closed.
+
+11. Q: Turn on the air conditioner in the bedroom.
+    A: The air conditioner in the bedroom is now on.
+
+12. Q: How much energy did we use yesterday?
+    A: You used 25 kWh of energy yesterday.
+
+13. Q: Turn off the TV in the living room.
+    A: The TV in the living room has been turned off.
+
+14. Q: Dim the lights in the dining room to 50%.
+    A: The dining room lights are now dimmed to 50%.
+
+15. Q: Is the washing machine running?
+    A: No, the washing machine is not running at the moment.
+
+16. Q: Water the garden for 10 minutes.
+    A: The garden watering system will run for 10 minutes.
+
+17. Q: How's the weather outside?
+    A: The current weather is 18°C with clear skies.
+
+18. Q: Activate the security system.
+    A: The security system is now activated.
+
+19. Q: Turn off the coffee machine.
+    A: The coffee machine has been turned off.
+
+20. Q: What’s the status of my smart fridge?
+    A: The smart fridge is running optimally, and you have a reminder to restock milk.
